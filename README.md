@@ -1,23 +1,5 @@
 # react-with-firebase-auth
 
-[![NPM](https://img.shields.io/npm/v/react-with-firebase-auth.svg)](https://www.npmjs.com/package/react-with-firebase-auth) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![Build Status](https://travis-ci.org/armand1m/react-with-firebase-auth.svg?branch=master)](https://travis-ci.org/armand1m/react-with-firebase-auth)
-[![codecov](https://codecov.io/gh/armand1m/react-with-firebase-auth/branch/master/graph/badge.svg)](https://codecov.io/gh/armand1m/react-with-firebase-auth)
-[![bundlephobia](https://badgen.net/bundlephobia/min/react-with-firebase-auth)](https://bundlephobia.com/result?p=react-with-firebase-auth)
-[![bundlephobia](https://badgen.net/bundlephobia/minzip/react-with-firebase-auth)](https://bundlephobia.com/result?p=react-with-firebase-auth)
-[![devdependencies](https://badgen.net/david/dev/armand1m/react-with-firebase-auth)](https://david-dm.org/armand1m/react-with-firebase-auth?type=dev)
-[![peerdependencies](https://badgen.net/david/peer/armand1m/react-with-firebase-auth)](https://david-dm.org/armand1m/react-with-firebase-auth?type=peer) [![Greenkeeper badge](https://badges.greenkeeper.io/armand1m/react-with-firebase-auth.svg)](https://greenkeeper.io/)
-
-> Higher Order Component for integrating Firebase with a React Component
-
-This library makes a `withFirebaseAuth()` function available to you.
-
- - [Signature](#signature)
- - [Usage](#usage)
- - [Examples](#examples)
- - [Articles](#articles)
- - [License](#license)
-
 ## Signature
 
 ```ts
@@ -135,18 +117,6 @@ const App = ({
 /** Wrap it */
 export default createComponentWithAuth(App);
 ```
-
-## Examples
-
-There are a few source code examples available:
-
- - Create React App Javascript Example: [armand1m/react-with-firebase-auth/tree/master/example](https://github.com/armand1m/react-with-firebase-auth/tree/master/example)
- - Create React App Medium Example: [armand1m/react-firebase-authentication-medium](https://github.com/armand1m/react-firebase-authentication-medium)
-
-You can also check a live demo example here:
-
- - https://armand1m.github.io/react-with-firebase-auth/
-
 ## Articles
 
  - ["How to setup Firebase Authentication with React in 5 minutes (maybe 10)"](https://medium.com/firebase-developers/how-to-setup-firebase-authentication-with-react-in-5-minutes-maybe-10-bb8bb53e8834)
@@ -157,4 +127,4 @@ You can also check a live demo example here:
 
 ## License
 
-MIT © [Armando Magalhaes](https://github.com/armand1m)
+MIT © [Armando Magalhaes](https://github.com/BrycenG007)
